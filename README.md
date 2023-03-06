@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me: 
 - Email: h4ri.rathod@gmail.com
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/rathodh/
