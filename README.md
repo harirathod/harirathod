@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 🌱 I'm currently learning:
+- Java 18
+- Web Development (React, JavaScript, CSS, HTML)
+- Databases (SQL)
+- Data Structures and Algorithms
+
+### 📫 How to reach me: 
+- Email: h4ri.rathod@gmail.com
+- LinkedIn: 
