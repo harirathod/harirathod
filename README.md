@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **harirathod/harirathod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### 🌱 I'm currently learning:
+### 🌱 I'm currently learning...
 - Java 18
 - Web Development (React, JavaScript, CSS, HTML)
 - Databases (SQL)
 - Data Structures and Algorithms
 
-### 📫 How to reach me: 
-- Email: h4ri.rathod@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rathodh/
+### 📫 How to reach me:
+- Email: **h4ri.rathod@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/rathodh/**
+
+Currently studying Computer Science at King's College London.
