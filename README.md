@@ -15,14 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 👋 About Me
+- Computer Science student at King's College London, with a deep interest in software engineering. 
+- Enjoys taking part in extra-curricular activities, including hackathons and tech societies.
+
 ### 🌱 I'm currently learning...
-- Java 18
+- Java 18, including JavaFX and JUnit 5
 - Web Development (React, JavaScript, CSS, HTML)
 - Databases (SQL)
 - Data Structures and Algorithms
+- Software Engineering 
 
 ### 📫 How to reach me:
 - Email: **h4ri.rathod@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/rathodh/**
-
-Currently studying Computer Science at King's College London.
