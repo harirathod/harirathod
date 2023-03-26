@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ### 🌱 I'm currently learning...
 - Java 18, including JavaFX and JUnit 5
+- Python
 - Web Development (React, JavaScript, CSS, HTML)
 - Databases (SQL)
 - Data Structures and Algorithms
