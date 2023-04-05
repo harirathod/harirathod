@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Enjoys taking part in extra-curricular activities, including hackathons and tech societies.
 
 ### 🌱 I'm currently learning...
-- Java 18, including JavaFX and JUnit 5
+- Java 18, including JavaFX
 - Python
 - Web Development (React, JavaScript, CSS, HTML)
 - Databases (SQL)
