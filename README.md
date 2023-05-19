@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### 👋 About Me
-- Computer Science student at King's College London, with a deep interest in software engineering. 
-- Enjoys taking part in extra-curricular activities, including hackathons and tech societies.
+- Computer Science Student at King's College London
+- Interest in Software Engineering
+- Takes part in extra-curricular activites, including hackathons and societies
 
 ### 🌱 I'm currently learning...
 - Java 18
