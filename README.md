@@ -20,13 +20,11 @@ Here are some ideas to get you started:
 - Enjoys taking part in extra-curricular activities, including hackathons and tech societies.
 
 ### 🌱 I'm currently learning...
-- Java 18, including JavaFX
-- Python
-- Web Development (React, JavaScript, CSS, HTML)
+- Java 18
 - Databases (SQL)
 - Data Structures and Algorithms
-- Software Engineering 
+- Python
+- Web Development (React, JavaScript, CSS, HTML)
 
 ### 📫 How to reach me:
-- Email: **h4ri.rathod@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/rathodh/**
