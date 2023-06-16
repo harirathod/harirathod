@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 
 ### 🌱 I'm currently learning...
 - Java 18
-- Databases (SQL)
+- Databases (inc. SQL)
 - Data Structures and Algorithms
 - Python
-- Web Development (React, JavaScript, CSS, HTML)
 
 ### 📫 How to reach me:
 - LinkedIn: **https://www.linkedin.com/in/rathodh/**
