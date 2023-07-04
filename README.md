@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 - Deep interest in Software Engineering
 - Takes part in extra-curricular activites, including hackathons and societies
 
-### 🌱 I'm currently learning...
-- Java 18
+### 🌱 I've been learning...
+- Java 18 (inc. JavaFX, Spring Boot)
 - Databases
 - Data Structures and Algorithms
 - Python
+- Web Development (JavaScript, HTML, CSS)
 
 ### 📫 How to reach me:
 - LinkedIn: **https://www.linkedin.com/in/rathodh/**
