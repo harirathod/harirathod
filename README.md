@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ### 👋 About Me
 - Computer Science Student at King's College London
-- Interest in Software Engineering
+- Deep interest in Software Engineering
 - Takes part in extra-curricular activites, including hackathons and societies
 
 ### 🌱 I'm currently learning...
 - Java 18
-- Databases (inc. SQL)
+- Databases
 - Data Structures and Algorithms
 - Python
 
