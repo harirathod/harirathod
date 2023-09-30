@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### 🌱 I've been learning...
 - Java 18 (inc. JavaFX, Spring Boot)
-- Databases
+- Databases (experience with MongoDB, PostgreSQL)
 - Data Structures and Algorithms
 - Python
 - Web Development (JavaScript, HTML, CSS)
