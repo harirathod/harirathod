@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 - Takes part in extra-curricular activites, including hackathons and societies
 
 ### 🌱 I've been learning...
+- C++ 11
 - Java 18 (inc. JavaFX, Spring Boot)
+- Python 3 (inc. Django)
 - Databases (experience with MongoDB, PostgreSQL)
 - Data Structures and Algorithms
-- Python
 - Web Development (JavaScript, HTML, CSS)
 
 ### 📫 How to reach me:
