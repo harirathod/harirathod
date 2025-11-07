@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### 👋 About Me
 - Final Year Computer Science Student at King's College London
 - Pursuing a career in Software Engineering
+- Only using this account for university projects now
 
 ### 🌱 I have experience with...
 #### Languages
