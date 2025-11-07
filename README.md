@@ -16,16 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ### 👋 About Me
-- Computer Science Student at King's College London
-- Deep interest in Software Engineering
-- Takes part in extra-curricular activites, including hackathons and societies
+- Final Year Computer Science Student at King's College London
+- Pursuing a career in Software Engineering
 
-### 🌱 I've been learning...
-- C++ 11
-- Java 18 (inc. JavaFX, Spring Boot)
-- Python 3 (inc. Django)
+### 🌱 I've have experience with...
+- C++, C, Java (inc. JavaFX, Spring Boot), Scala, Python (inc. Django), Rust
 - Databases (experience with MongoDB, PostgreSQL)
-- Data Structures and Algorithms
 - Web Development (JavaScript, HTML, CSS)
 
 ### 📫 How to reach me:
