@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 - Final Year Computer Science Student at King's College London
 - Pursuing a career in Software Engineering
 
-### 🌱 I've have experience with...
-- C++, C, Java (inc. JavaFX, Spring Boot), Scala, Python (inc. Django), Rust
-- Databases (experience with MongoDB, PostgreSQL)
-- Web Development (JavaScript, HTML, CSS)
+### 🌱 I have experience with...
+#### Languages
+- C++, C, Java, Scala, Python, Rust, SQL, JavaScript, HTML, CSS
+#### Technologies
+- Linux, Git, Jenkins, Gerrit, JavaFX, Spring Boot, Django, MongoDB, PostgreSQL
 
 ### 📫 How to reach me:
 - LinkedIn: **https://www.linkedin.com/in/rathodh/**
